@@ -1,4 +1,4 @@
-n = int(input('digite quantos termos da sequencia de Fibonacci vc quer mostrar: '))
+n = int(input('quantos termos da sequencia de Fibonacci voce quer mostrar? '))
 
 t1 = 0
 t2 = 1
@@ -13,3 +13,6 @@ while n != 0:
     print(f[r], end=' ')
     r += 1
     n -= 1
+
+
+
