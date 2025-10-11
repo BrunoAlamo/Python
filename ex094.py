@@ -46,3 +46,4 @@ print('A lista de pessoas com idade acima da média foi: ')
 for h in range(0, len(vl)):
     for k, v in vl[h].items():
         print(f'{k} = {v}; ', end='')
+print('<< ENCERRADO >>')
