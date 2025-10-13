@@ -1,6 +1,6 @@
 def area(a, b):
-    area = a * b
-    print(f'a area do seu terreno {a}x{b} é de {area}m^2')
+    field = a * b
+    print(f'a area do seu terreno {a}x{b} é de {field}m^2')
 
 
 print('CONTROLE DE TERRENOS')
