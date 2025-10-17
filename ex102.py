@@ -12,7 +12,6 @@ def fatorial(n, show=False):
                 f *= c
                 c -= 1
             else:
-                print(f' {c}', end='')
                 break
         print(' = ', end='')
         print(f)
