@@ -1,0 +1,6 @@
+n = input('digite um numero ')
+letras = list(n)
+print('a unidade: {}'.format(letras[3]))
+print('a dezena: {}'.format(letras[2]))
+print('a centena: {}'.format(letras[1]))
+print('a milhar: {}'.format(letras[0]))
